@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🛠 Skills
-아래 나열한 기술들을 [프로젝트](https://github.com/harsona)에서 사용했습니다. 자세한 내용은 해당 프로젝트의 README를 참고 부탁드립니다.  
+아래 나열한 기술들을 [프로젝트](https://github.com/harsona?tab=repositories)에서 사용했습니다. 자세한 내용은 해당 프로젝트의 README를 참고 부탁드립니다.  
 
 + Java
 + JSP
