@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 ## 💁‍♂️ Introduction
 + 안녕하세요! 포기하지 않는 끈질긴 집념의 개발자 하승아입니다.
-+ 본래는 자연과학을 공부하다가 우연한 기회로 코딩을 접하여, 지금은 금융 IT 전문가가 되기 위해 노력하고 있습니다.
++ 자연과학을 공부하였으나 가랑비 옷 젖듯 다양한 경로로 코딩을 접하여, 지금은 금융 IT 전문가가 되기 위해 노력하고 있습니다.
 + 2021년 11월 [클라우드 기반 빅데이터를 활용한 자바 개발자 과정]을 수료하였습니다.
 
 <br>
 
 ## ☎ Contact & Channel
 + Email : <imharsona@gmail.com>
-+ Blog : <https://harsona.github.io/>
++ Git : <https://github.com/harsona>
 
 <br>
 
