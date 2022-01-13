@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+<!-- ### Hi there 👋
 **harsona/harsona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+ <img src="" alt="my-logo" height="140" width="140">
  <img src="" alt="my-logo" height="140" width="140">
 </div>
 
