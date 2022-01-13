@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
- <img src="" alt="my-logo" height="140" width="140">
- <img src="" alt="my-logo" height="140" width="140">
-</div>
-
-
-
 ## 💁‍♂️ Introduction
 + 안녕하세요! 포기하지 않는 끈질긴 집념의 개발자 하승아입니다.
 + 본래는 자연과학을 공부하다가 우연한 기회로 코딩을 접하여, 지금은 금융 IT 전문가가 되기 위해 노력하고 있습니다.
@@ -29,8 +22,8 @@ Here are some ideas to get you started:
 <br>
 
 ## ☎ Contact & Channel
-+ Email <imharsona@gmail.com>
-+ Blog <https://harsona.github.io/>
++ Email : <imharsona@gmail.com>
++ Blog : <https://harsona.github.io/>
 
 <br>
 
