@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 
 ## 📕 README
 
-+ [개발문고](https://github.com/harsona/Project_BookStore) : JSP와 MySQL을 이용한 도서쇼핑몰 사이트
-+ [금융투자상품 추천 테스트](https://github.com/harsona/mbti_financial) : MBTI 기반 성격 유형 테스트
+|[<img src="https://user-images.githubusercontent.com/86336066/149669221-70709d8e-967c-44e9-b9d7-a97d476b7ed4.png" width="350">](https://github.com/harsona/Project_BookStore#readme)|[<img src="https://user-images.githubusercontent.com/86336066/149669226-e112c30a-d2fe-4186-95ff-80e8005b0623.png" width="350">](https://github.com/harsona/mbti_financial#readme)|
+|:---:|:---:|
+|JSP와 MySQL을 이용한 도서쇼핑몰 사이트<br>[개발문고](https://github.com/harsona/Project_BookStore#readme)|MBTI 기반 성격 유형 테스트를 이용한<br>[금융투자상품 추천](https://github.com/harsona/mbti_financial#readme)|
 
 <br>
 
