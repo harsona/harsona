@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🛠 Skills
-아래 나열한 기술들을 [프로젝트](https://github.com/harsona?tab=repositories)에서 사용했습니다. 자세한 내용은 해당 프로젝트의 README를 참고 부탁드립니다.  
+나열한 기술들을 프로젝트에서 사용했습니다. 자세한 내용은 아래 해당 프로젝트의 README를 참고 부탁드립니다. 
 
 + Java
 + JSP
@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 + Oracle
 + Git
 + HTML/CSS/JavaScript
+
+<br>
+
+## 📕 README
+
++ [개발문고](https://github.com/harsona/Project_BookStore) : JSP와 MySQL을 이용한 도서쇼핑몰 사이트
++ [금융투자상품 추천 테스트](https://github.com/harsona/mbti_financial) : MBTI 기반 성격 유형 테스트
 
 <br>
 
