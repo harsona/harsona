@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 
 <br>
 
-## ☎ Contact & Channel
-+ Email : <imharsona@gmail.com>
-+ Git : <https://github.com/harsona>
+## 📕 README
+
+|[<img src="https://user-images.githubusercontent.com/86336066/149669221-70709d8e-967c-44e9-b9d7-a97d476b7ed4.png" width="350">](https://github.com/harsona/Project_BookStore#readme)|[<img src="https://user-images.githubusercontent.com/86336066/149669226-e112c30a-d2fe-4186-95ff-80e8005b0623.png" width="350">](https://github.com/harsona/mbti_financial#readme)|
+|:---:|:---:|
+|JSP와 MySQL을 이용한 도서쇼핑몰 사이트<br>[개발문고](https://github.com/harsona/Project_BookStore#readme)|MBTI 기반 성격 유형 테스트를 이용한<br>[금융투자상품 추천](https://github.com/harsona/mbti_financial#readme)|
 
 <br>
 
 ## 🛠 Skills
-나열한 기술들을 프로젝트에서 사용했습니다. 자세한 내용은 아래 해당 프로젝트의 README를 참고 부탁드립니다. 
+나열한 기술들을 프로젝트에서 사용했습니다. 자세한 내용은 상단의 README를 참고 부탁드립니다. 
 
 + Java
 + JSP
@@ -39,16 +41,13 @@ Here are some ideas to get you started:
 
 <br>
 
-## 📕 README
-
-|[<img src="https://user-images.githubusercontent.com/86336066/149669221-70709d8e-967c-44e9-b9d7-a97d476b7ed4.png" width="350">](https://github.com/harsona/Project_BookStore#readme)|[<img src="https://user-images.githubusercontent.com/86336066/149669226-e112c30a-d2fe-4186-95ff-80e8005b0623.png" width="350">](https://github.com/harsona/mbti_financial#readme)|
-|:---:|:---:|
-|JSP와 MySQL을 이용한 도서쇼핑몰 사이트<br>[개발문고](https://github.com/harsona/Project_BookStore#readme)|MBTI 기반 성격 유형 테스트를 이용한<br>[금융투자상품 추천](https://github.com/harsona/mbti_financial#readme)|
-
-<br>
-
 ## 🏆 자격증
 + SQL개발자 취득 (2021.12)
 + 리눅스마스터 2급 1차 합격 (2021.11)
 + 정보처리기사 필기 합격 (2021.09) 
 
+<br>
+
+## ☎ Contact & Channel
++ Email : <imharsona@gmail.com>
++ Git : <https://github.com/harsona>
